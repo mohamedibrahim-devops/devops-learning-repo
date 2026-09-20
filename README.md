@@ -1,8 +1,8 @@
 # My devOps Learning Journey 
 
-This repository documents my learning and progress as i develope my DevOps skilss
+This repository documents my learning and progress as i develope my DevOps skills
 
-i'm currently working through the CoderCo DevOps Academy, combining structured learning with practical exercises and hands on challenges.
+I'm currently working through the CoderCo DevOps Academy, combining structured learning with practical exercises and hands on challenges.
 
 ## Current Focus
 
